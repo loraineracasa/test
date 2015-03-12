@@ -1,4 +1,10 @@
 body{
 background-color: blue;
 color: pink;
+font-family: "Comic Sans MS", cursive, sans-serif;
+
+background-color: black;
+color: pink;
+font-family: "Lucida Console", Monaco, monospace; 
+
 }

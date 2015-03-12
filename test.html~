@@ -3,7 +3,11 @@
 	<link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
+<<<<<<< HEAD
 	<h1>Lalalalal!</h1>
+=======
+	<h1>New!</h1>
+>>>>>>> ab-6l_racasa2
 	<img src="image.jpg"/>
 	<p>Marie Loraine C. Racasa, 2012-17167, AB-6L</p>
 </body>
